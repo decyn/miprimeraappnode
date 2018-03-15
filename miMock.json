@@ -1,0 +1,23 @@
+ [
+        {
+            "asunto": "Necesito ayuda",
+            "correo": "pepe.romerol@mail.com",
+            "mensaje": "Buenas, me llamo Pepe y necesito ayuda con Node.js"
+        },
+        {
+            "asunto": "Alquiler de coche",
+            "correo": "juanramirez@mail.com",
+            "mensaje": "Quisiera saber si fuera posible alquilar un coche los días 10 y 11 de mayo."
+        },
+        {
+            "asunto": "Petición Colaboración",
+            "correo": "dominguezano@mail.com",
+            "mensaje": "Me dedico a pintar cuadros y me gustaría exponer mi galería en su evento. Gracias."
+        },
+        {
+            "asunto": "Comprar dulces",
+            "correo": "mariaceni@mail.com",
+            "mensaje": "Soy pastelera y me dedico a crear tartas personalizadas."
+        }
+    ]
+ 
